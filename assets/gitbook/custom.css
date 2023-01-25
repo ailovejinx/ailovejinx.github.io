@@ -145,10 +145,10 @@
 /* Custom font settings */
 
 .book.font-family-0 {
-    font-family: Georgia, serif;
+    font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
 }
 .book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
 }
 
 /* Render wide tables */
