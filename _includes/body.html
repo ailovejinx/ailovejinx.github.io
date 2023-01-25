@@ -12,11 +12,12 @@
         <div id="book-search-results">
             <div class="search-noresults">
                 <section class="normal markdown-section">
-                    {% if page.title %}
+                    <!-- 注释以下代码后，在md文件中手动添加正文标题，而非自动生成正文标题 -->
+                    <!-- {% if page.title %}
                         <h1 id="{{ page.id }}">{{ page.title | escape }}</h1>
                     {% else %}
                         <h1 id="{{ page.id }}">{{ site.title | escape }}</h1>
-                    {% endif %}
+                    {% endif %} -->
 
                     {{ content }}
                 </section>

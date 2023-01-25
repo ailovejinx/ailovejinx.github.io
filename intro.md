@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Yifan Jiao（焦逸凡）
+title: 
 permalink: /
 ---
-
+<h1 align="center">Yifan Jiao（焦逸凡）</h1>
 <div align="center"><img src="/assets/gitbook/images/jyf.jpg" style="zoom:50%;" /></div>
 
 I'm a graduate student at [University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/), major in software engeneering. Now I'm working on computer vision in [Institute of Software, Chinese Academy of Science(ISCAS)](http://www.iscas.ac.cn/), guided by associate researcher [Libo Zhang](https://ieeexplore.ieee.org/author/37085907433). I'm studing 3D obeject detection and tracking based on data augmentation, hoping to generate an synthetic dataset by Grand Theft Auto V(GTAV). Meanwhile, I'm researching how to achieve 3D Single object tracking using only monocular images.
