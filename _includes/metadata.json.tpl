@@ -40,7 +40,7 @@
         "author": "Tao He",
         "pdf": {
             "pageNumbers": true,
-            "fontSize": 12,
+            "fontSize": 10,
             "fontFamily": "Arial",
             "paperSize": "a4",
             "chapterMark": "pagebreak",

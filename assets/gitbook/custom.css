@@ -1,8 +1,14 @@
 ---
 ---
-
+/* 在这里修改body属性 */
 .book-body {
     overflow-y: scroll;
+    /* 文字两端对齐 */
+    text-align: justify;
+    /* 字间距 */
+    /* letter-spacing: 1px; */
+    /* 行间距 */
+    line-height: 1.2;
 }
 
 .book-body .book-header {
