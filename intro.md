@@ -4,16 +4,20 @@ title:
 permalink: /
 ---
 <h1 align="center">Yifan Jiao（焦逸凡）</h1>
-<div align="center"><img src="/assets/gitbook/images/jyf.jpg" style="zoom:50%;" /></div>
+<div align="center"><img src="/assets/gitbook/images/jyf.jpg" style="zoom:50%;margin-bottom:10px;" /></div>
 
 I'm a graduate student at [University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/), major in software engeneering. Now I'm working on computer vision in [Institute of Software, Chinese Academy of Science(ISCAS)](http://www.iscas.ac.cn/), guided by associate researcher [Libo Zhang](https://ieeexplore.ieee.org/author/37085907433). I'm studing 3D obeject detection and tracking based on data augmentation, hoping to generate an synthetic dataset by Grand Theft Auto V(GTAV). Meanwhile, I'm researching how to achieve 3D Single object tracking using only monocular images.
 
-TODO: Github / CV / Bilibili
+<div align=center style="margin-top:30px">
+    <a href="https://github.com/ailovejinx"><img src="/assets/gitbook/images/github-mark.png" style="zoom:20%;margin-right:200px;margin-left:60px"></a>
+    <a href="https://space.bilibili.com/7739767"><img src="/assets/gitbook/images/bilibili.png" style="zoom:20%;margin-right:60px;margin-left:600px"></a>
+    
+</div>
 
 ## Career
 
-**2019.9-2023.6** | Undergraduate student at [Beijing University of Posts and Telecommunications(BUPT)](https://www.bupt.edu.cn/), major in Information and Communication Engeneering.
-**2023.9-2026.6** | Graduate student at University of [Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/), majoring in Software Engeneering.
+**2019.9-2023.6** | Undergraduate student at [Beijing University of Posts and Telecommunications(BUPT)](https://www.bupt.edu.cn/), major in *Information and Communication Engeneering*.
+**2023.9-2026.6** | Graduate student at University of [Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/), majoring in *Software Engeneering*.
 
 ## Awards
 
@@ -26,7 +30,7 @@ Jan. 2021 | Silver Award of "One Belt One Road Global Digital Online Study 2021"
 Dec. 2020 | BUPT Merit Student & First Scholarship(Rank: 35/872, 4.0%)
 
 ## Projects
-TODO: 鸿蒙 
+TODO: 鸿蒙
 
 ## Affiliations
 

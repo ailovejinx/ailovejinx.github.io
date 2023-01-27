@@ -9,4 +9,7 @@ gem 'jekyll-feed'
 gem 'jemoji'
 gem 'webrick'
 
+# if Gem.win_platform
+gem 'wdm', '>= 0.1.0'
+
 # gem "rails"
