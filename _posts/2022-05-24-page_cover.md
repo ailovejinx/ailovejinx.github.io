@@ -1,5 +1,5 @@
 ---
-title: Page with cover image
+title: Page with cover image [example]
 author: Tao He
 date: 2022-05-24
 category: Jekyll
