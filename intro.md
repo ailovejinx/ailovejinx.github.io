@@ -3,6 +3,8 @@ layout: home
 title: 
 permalink: /
 ---
+<!-- bundle exec jekyll serve --trace -->
+
 <h1 align="center">Yifan Jiao（焦逸凡）</h1>
 <div align="center"><img src="/assets/gitbook/images/jyf.jpg" style="zoom:50%;margin-bottom:10px;" /></div>
 
